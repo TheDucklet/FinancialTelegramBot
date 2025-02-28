@@ -136,7 +136,7 @@ def save_user_settings(user_id, settings):
 
 
 # Конфигурация
-BOT_TOKEN = '7902205200:AAHiB_rsEQR9osp0aPgav8o28_M4zxutbEc'
+BOT_TOKEN = 'YOUR_BOT_TOCKEN'
 BINANCE_API_URL = 'https://api.binance.com/api/v3/ticker/price'
 CBR_API_URL = 'https://www.cbr-xml-daily.ru/daily_json.js'
 
